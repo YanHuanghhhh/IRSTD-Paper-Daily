@@ -122,11 +122,11 @@
 
 <p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/contributors
-[forks-shield]: https://img.shields.io/github/forks/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/forks
-[stars-shield]: https://img.shields.io/github/stars/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/stars
-[issues-shield]: https://img.shields.io/github/issues/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/contributors
+[forks-shield]: https://img.shields.io/github/forks/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[forks-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/forks
+[stars-shield]: https://img.shields.io/github/stars/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[stars-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/stars
+[issues-shield]: https://img.shields.io/github/issues/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[issues-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/issues

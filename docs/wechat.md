@@ -121,11 +121,11 @@
 - 2025-02-20, **Deep learning based infrared small object segmentation: Challenges and future directions**, Zhengeng Yang et.al., Paper: [http://arxiv.org/abs/2502.14168](http://arxiv.org/abs/2502.14168)
 - 2025-02-02, **Spatio-Temporal Progressive Attention Model for EEG Classification in Rapid Serial Visual Presentation Task**, Yang Li et.al., Paper: [http://arxiv.org/abs/2502.00730](http://arxiv.org/abs/2502.00730)
 
-[contributors-shield]: https://img.shields.io/github/contributors/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[contributors-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/contributors
-[forks-shield]: https://img.shields.io/github/forks/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[forks-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/forks
-[stars-shield]: https://img.shields.io/github/stars/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[stars-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/stars
-[issues-shield]: https://img.shields.io/github/issues/Sakauma/IRSTD-Paper-Daily.svg?style=for-the-badge
-[issues-url]: https://github.com/Sakauma/IRSTD-Paper-Daily/issues
+[contributors-shield]: https://img.shields.io/github/contributors/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[contributors-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/contributors
+[forks-shield]: https://img.shields.io/github/forks/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[forks-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/forks
+[stars-shield]: https://img.shields.io/github/stars/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[stars-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/stars
+[issues-shield]: https://img.shields.io/github/issues/YanHuanghhhh/IRSTD-Paper-Daily.svg?style=for-the-badge
+[issues-url]: https://github.com/YanHuanghhhh/IRSTD-Paper-Daily/issues
