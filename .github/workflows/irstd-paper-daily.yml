@@ -2,6 +2,10 @@ name: Update IRSTD Paper Daily
 
 on:
   workflow_dispatch:
+  schedule:
+    # GitHub 定时任务只按 UTC 计算：00:17 UTC = 北京时间 08:17。
+    # 错开整点可以降低被延迟或丢弃的概率，但 GitHub 不保证准时触发。
+    - cron: "17 0 * * *"
 
 # 两个发布工作流必须使用相同的组，串行更新目录及通知状态。
 concurrency:
