@@ -1,0 +1,3 @@
+# 保证 shell 脚本在任何系统上检出时都是 LF，避免 Git Bash 因 CRLF 报语法错误
+*.sh text eol=lf
+run_daily.cmd text eol=crlf

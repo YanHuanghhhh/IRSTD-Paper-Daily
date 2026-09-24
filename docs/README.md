@@ -55,6 +55,34 @@ python daily_arxiv.py --backfill_code
 python daily_arxiv.py --full-refresh --backfill_code
 ```
 
+## 本地一键脚本（run_daily.sh）
+
+仓库根目录的 `run_daily.sh` 把「抓取 → 生成产物 → 通知 → 提交推送」合成一步，并固定
+使用 conda 环境 `daily_arxiv`（默认解释器 `/d/MINICONDA/envs/daily_arxiv/python.exe`，
+可用环境变量 `DAILY_ARXIV_PYTHON` 覆盖）。
+
+在 Git Bash 中运行：
+
+```bash
+bash run_daily.sh                  # 增量抓取 + 微信/邮件通知 + 提交并推送
+bash run_daily.sh --full-refresh   # 忽略增量水位，重扫全部历史
+bash run_daily.sh --backfill-code  # 只为历史论文补齐代码链接
+bash run_daily.sh --check          # 只做环境自检，不抓取
+bash run_daily.sh --dry-run        # 只打印将要执行的命令
+```
+
+Windows 上也可以直接双击或在 PowerShell 中执行 `run_daily.cmd`，它会调用 Git Bash。
+脚本每次运行都会先打印仓库、分支、解释器、依赖版本，以及微信、邮件、GitHub Token
+三类密钥是否已配置。
+
+密钥保存在仓库根目录的 `.env`（已在 `.gitignore` 中，模板见 `.env.example`）：
+`SERVERCHAN_SENDKEY`、`SMTP_HOST`、`SMTP_USERNAME`、`SMTP_PASSWORD`、`EMAIL_TO`，
+可选 `GITHUB_TOKEN`。未配置的项目会被自动跳过，密钥不会写入仓库文件。
+
+其它开关：`--no-notify`、`--no-email`、`--no-pull`、`--no-push`、`--no-commit`、
+`--config PATH`、`--message TEXT`。提交前默认执行一次 `git pull --rebase --autostash`，
+与每日工作流并存时不会互相覆盖；生成文件没有变化时脚本既不提交也不推送。
+
 ## 配置新领域
 
 在 `config.yaml` 的 `domains` 下增加条目即可。简单领域可以使用 `filters`：
