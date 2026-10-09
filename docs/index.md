@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2026.10.08
+## Updated on 2026.10.09
 > Usage instructions: [here](./README.md#usage)
 
 ## IRSTD
