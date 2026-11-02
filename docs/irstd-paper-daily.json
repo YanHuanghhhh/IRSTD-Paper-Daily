@@ -998,6 +998,15 @@
       "authors": "Xuelin Qian, Zixuan Wang, Chang Xu, Dingwen Zhang, Junwei Han",
       "url": "http://arxiv.org/abs/2610.29361",
       "code": null
+    },
+    "2610.40949": {
+      "id": "2610.40949",
+      "publish_date": "2026-10-29",
+      "title": "AVID: A Weakly Aligned RGB-Infrared Dataset and Perturbation Benchmark for Tiny Aerial Targets",
+      "first_author": "Dharini Raghavan",
+      "authors": "Dharini Raghavan, Vishnu Rao, Sethu Selvi S",
+      "url": "http://arxiv.org/abs/2610.40949",
+      "code": null
     }
   }
 }
