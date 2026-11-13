@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2026.11.12
+> Updated on 2026.11.13
 > Usage instructions: [here](./README.md#usage)
 
 <details>
@@ -15,6 +15,7 @@
 
 ## IRSTD
 
+- 2026-11-12, **What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis**, Tamara R. Lenhard et.al., Paper: [http://arxiv.org/abs/2611.16724](http://arxiv.org/abs/2611.16724)
 - 2026-11-06, **From Points to Targets: Online Foreground Affinity and Background Learning for Infrared Small Target Detection**, Qiancheng Zhou et.al., Paper: [http://arxiv.org/abs/2605.00722](http://arxiv.org/abs/2605.00722)
 - 2026-11-02, **Understand Before Detect: Vision--Language Learning for Omni-Domain Infrared Small Target Detection**, Haoyang Yuan et.al., Paper: [http://arxiv.org/abs/2608.07015](http://arxiv.org/abs/2608.07015)
 - 2026-11-02, **Rethinking Infrared Small Target Detection: A Foundation-Driven Efficient Paradigm**, Chuang Yu et.al., Paper: [http://arxiv.org/abs/2512.05511](http://arxiv.org/abs/2512.05511), Code: **[https://github.com/YuChuang1205/FDEP-Framework](https://github.com/YuChuang1205/FDEP-Framework)**

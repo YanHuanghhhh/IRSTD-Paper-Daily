@@ -1007,6 +1007,15 @@
       "authors": "Dharini Raghavan, Vishnu Rao, Sethu Selvi S",
       "url": "http://arxiv.org/abs/2610.40949",
       "code": "https://github.com/levyflux/AViD"
+    },
+    "2611.16724": {
+      "id": "2611.16724",
+      "publish_date": "2026-11-12",
+      "title": "What Limits Thermal Infrared Drone Detection? A Cross-Dataset Benchmark Analysis",
+      "first_author": "Tamara R. Lenhard",
+      "authors": "Tamara R. Lenhard, Jan Kels, Tobias Koch",
+      "url": "http://arxiv.org/abs/2611.16724",
+      "code": null
     }
   }
 }
